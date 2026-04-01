@@ -1,0 +1,15 @@
+{
+  "name": "pptx-deck",
+  "description": "Create polished PowerPoint (.pptx) presentations from plain text. Brand-agnostic — auto-detects colors from .potx templates or picks a palette. Includes 7 slide patterns: title, flow diagram, cards, metrics, timeline, summary.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dbaas-operation-agents contributors"
+  },
+  "homepage": "https://github.com/Atomic-man007/pptx-deck-plugin",
+  "repository": "https://github.com/Atomic-man007/pptx-deck-plugin",
+  "license": "MIT",
+  "keywords": [
+    "powerpoint", "pptx", "slides", "presentation", "deck",
+    "pptxgenjs", "brand", "charts", "diagrams"
+  ]
+}
